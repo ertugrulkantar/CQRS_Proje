@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qSRnkJne3iCTWjhWRR4GzXhnkbHq0K3mk3IO42fHzmQ=",
+  "Source": "LargestPrimeApp.WebApi",
+  "BasePath": "_content/LargestPrimeApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "LargestPrimeApp.WebApi.Controllers.LargestPrimeController",
+    "Method": "Get",
+    "RelativePath": "api/LargestPrime",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LargestPrimeApp.WebApi.Controllers.LargestPrimeController",
+    "Method": "Post",
+    "RelativePath": "api/LargestPrime",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numbers",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LargestPrimeApp.WebApi.Controllers.LargestPrimeController",
+    "Method": "GetById",
+    "RelativePath": "api/LargestPrime/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

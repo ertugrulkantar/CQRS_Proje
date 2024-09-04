@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|c:\\users\\ertug\\desktop\\calisma\\proje\\largestprimeapp\\src\\webapi\\largestprimeapp.webapi\\controllers\\largestprimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|solutionrelative:src\\webapi\\largestprimeapp.webapi\\controllers\\largestprimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C139281-A90B-493C-8159-9ACBA73AB47C}|src\\Core\\LargestPrimeApp.Application\\LargestPrimeApp.Application.csproj|c:\\users\\ertug\\desktop\\calisma\\proje\\largestprimeapp\\src\\core\\largestprimeapp.application\\features\\commands\\createentry\\createentrycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C139281-A90B-493C-8159-9ACBA73AB47C}|src\\Core\\LargestPrimeApp.Application\\LargestPrimeApp.Application.csproj|solutionrelative:src\\core\\largestprimeapp.application\\features\\commands\\createentry\\createentrycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C139281-A90B-493C-8159-9ACBA73AB47C}|src\\Core\\LargestPrimeApp.Application\\LargestPrimeApp.Application.csproj|c:\\users\\ertug\\desktop\\calisma\\proje\\largestprimeapp\\src\\core\\largestprimeapp.application\\dto\\entityviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C139281-A90B-493C-8159-9ACBA73AB47C}|src\\Core\\LargestPrimeApp.Application\\LargestPrimeApp.Application.csproj|solutionrelative:src\\core\\largestprimeapp.application\\dto\\entityviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|c:\\users\\ertug\\desktop\\calisma\\proje\\largestprimeapp\\src\\webapi\\largestprimeapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|solutionrelative:src\\webapi\\largestprimeapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|c:\\users\\ertug\\desktop\\calisma\\proje\\largestprimeapp\\src\\webapi\\largestprimeapp.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|solutionrelative:src\\webapi\\largestprimeapp.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|c:\\users\\ertug\\desktop\\calisma\\proje\\largestprimeapp\\src\\webapi\\largestprimeapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|solutionrelative:src\\webapi\\largestprimeapp.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|c:\\users\\ertug\\desktop\\calisma\\proje\\largestprimeapp\\src\\webapi\\largestprimeapp.webapi\\largesprimeapp.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AB242935-54BE-4C96-8DF2-B716C66839A6}|src\\WebApi\\LargestPrimeApp.WebApi\\LargestPrimeApp.WebApi.csproj|solutionrelative:src\\webapi\\largestprimeapp.webapi\\largesprimeapp.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA74A07-D34B-47BA-8EC5-E96B2085ACB8}|src\\Infrastructure\\LargestPrimeApp.Persistence\\LargestPrimeApp.Persistence.csproj|c:\\users\\ertug\\desktop\\calisma\\proje\\largestprimeapp\\src\\infrastructure\\largestprimeapp.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA74A07-D34B-47BA-8EC5-E96B2085ACB8}|src\\Infrastructure\\LargestPrimeApp.Persistence\\LargestPrimeApp.Persistence.csproj|solutionrelative:src\\infrastructure\\largestprimeapp.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LargesPrimeApp.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\LargesPrimeApp.WebApi.http",
+              "RelativeDocumentMoniker": "src\\WebApi\\LargestPrimeApp.WebApi\\LargesPrimeApp.WebApi.http",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\LargesPrimeApp.WebApi.http",
+              "RelativeToolTip": "src\\WebApi\\LargestPrimeApp.WebApi\\LargesPrimeApp.WebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-22T07:53:15.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\Infrastructure\\LargestPrimeApp.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\LargestPrimeApp.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\Infrastructure\\LargestPrimeApp.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\LargestPrimeApp.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:52:03.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\LargestPrimeApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\LargestPrimeApp.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:24:34.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateEntryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\Core\\LargestPrimeApp.Application\\Features\\Commands\\CreateEntry\\CreateEntryCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core\\LargestPrimeApp.Application\\Features\\Commands\\CreateEntry\\CreateEntryCommand.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\Core\\LargestPrimeApp.Application\\Features\\Commands\\CreateEntry\\CreateEntryCommand.cs",
+              "RelativeToolTip": "src\\Core\\LargestPrimeApp.Application\\Features\\Commands\\CreateEntry\\CreateEntryCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:02:14.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\Core\\LargestPrimeApp.Application\\Dto\\EntityViewDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\LargestPrimeApp.Application\\Dto\\EntityViewDto.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\Core\\LargestPrimeApp.Application\\Dto\\EntityViewDto.cs",
+              "RelativeToolTip": "src\\Core\\LargestPrimeApp.Application\\Dto\\EntityViewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:02:15.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LargestPrimeController.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\Controllers\\LargestPrimeController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\LargestPrimeApp.WebApi\\Controllers\\LargestPrimeController.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\Controllers\\LargestPrimeController.cs",
+              "RelativeToolTip": "src\\WebApi\\LargestPrimeApp.WebApi\\Controllers\\LargestPrimeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:02:15.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\LargestPrimeApp.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\WebApi\\LargestPrimeApp.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T07:31:43.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\LargestPrimeApp.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\WebApi\\LargestPrimeApp.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\WebApi\\LargestPrimeApp.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T07:14:24.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

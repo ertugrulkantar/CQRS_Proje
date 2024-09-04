@@ -1,0 +1,11 @@
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net8.0\ProductApp.Domain.deps.json
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.AssemblyInfo.cs
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\refint\ProductApp.Domain.dll
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\ertug\Desktop\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ref\ProductApp.Domain.dll

@@ -1,0 +1,133 @@
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.runtimeconfig.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestP.AFE20F04.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\refint\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\ref\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.runtimeconfig.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestP.AFE20F04.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\refint\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\ref\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.runtimeconfig.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestP.AFE20F04.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\refint\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\ref\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.runtimeconfig.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestP.AFE20F04.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\refint\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\ref\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.runtimeconfig.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestP.AFE20F04.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\refint\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\ref\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.runtimeconfig.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestP.AFE20F04.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\refint\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\ref\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.deps.json
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.runtimeconfig.json
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestP.AFE20F04.Up2Date
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\refint\LargestPrimeApp.Persistence.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.pdb
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\LargestPrimeApp.Persistence.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Infrastructure\LargestPrimeApp.Persistence\obj\Debug\net8.0\ref\LargestPrimeApp.Persistence.dll

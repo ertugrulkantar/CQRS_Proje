@@ -1,0 +1,1 @@
+Onion ve CQRS-MediatR'ı birleştireceğiz.

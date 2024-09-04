@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "p1CL0pw7QLwMzWUDiqilCOHO22LSvxqRMsdcTv6AIUl7E5ZwauZ/jPxxVJnrf4Clp/LerBwB5FtlSjCSwzADjA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\ertug\\Desktop\\Calisma\\Proje\\LargestPrimeApp\\src\\Core\\LargestPrimeApp.Application\\LargestPrimeApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ertug\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\ertug\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\ertug\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ertug\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ertug\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\ertug\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ertug\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1 @@
+Onion calismasidir. MediatR kullanilmayan calismadir. Tech Buddy 1 ve 2

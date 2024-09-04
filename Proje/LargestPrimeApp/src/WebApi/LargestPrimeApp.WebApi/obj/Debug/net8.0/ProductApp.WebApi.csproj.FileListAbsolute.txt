@@ -1,0 +1,176 @@
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.exe
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.deps.json
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.runtimeconfig.json
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.pdb
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Application.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Persistence.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Application.pdb
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Persistence.pdb
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\scopedcss\bundle\ProductApp.WebApi.styles.css
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductA.B31F4704.Up2Date
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\refint\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.pdb
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Calismam\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ref\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.exe
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.runtimeconfig.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\scopedcss\bundle\ProductApp.WebApi.styles.css
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductA.B31F4704.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\refint\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ref\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.exe
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.runtimeconfig.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\scopedcss\bundle\ProductApp.WebApi.styles.css
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductA.B31F4704.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\refint\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ref\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.exe
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.runtimeconfig.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.WebApi.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.Persistence.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.Persistence.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\bin\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductApp.WebApi.props
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\scopedcss\bundle\ProductApp.WebApi.styles.css
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductA.B31F4704.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\refint\ProductApp.WebApi.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.genruntimeconfig.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\WebApi\LargestPrimeApp.WebApi\obj\Debug\net8.0\ref\ProductApp.WebApi.dll

@@ -1,0 +1,2 @@
+Tech Buddy-3 videosuna ait. CQRS ve MediatR öğrenmek için yazıldı. Bir sonraki aşamada, Onion projesindeki 
+prensip sorununu CQRS ve MediatR ile çözeceğiz.

@@ -1,0 +1,105 @@
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestP.F1B2DC3C.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\refint\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\ref\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestP.F1B2DC3C.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\refint\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya - Kopya - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\ref\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestP.F1B2DC3C.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\refint\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\ref\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestP.F1B2DC3C.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\refint\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp - Kopya\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\ref\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestP.F1B2DC3C.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\refint\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-3\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\ref\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.deps.json
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestP.F1B2DC3C.Up2Date
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\refint\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Yeni klasör\P3\LargestPrimeApp-4\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\ref\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.deps.json
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\bin\Debug\net8.0\LargestPrimeApp.Domain.pdb
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfoInputs.cache
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.AssemblyInfo.cs
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestP.F1B2DC3C.Up2Date
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\refint\LargestPrimeApp.Application.dll
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\LargestPrimeApp.Application.pdb
+C:\Users\ertug\Desktop\Calisma\Proje\LargestPrimeApp\src\Core\LargestPrimeApp.Application\obj\Debug\net8.0\ref\LargestPrimeApp.Application.dll
